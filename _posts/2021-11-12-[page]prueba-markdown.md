@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [page]Prueba markdown post
+title: page_Prueba markdown post
 subtitle: Las publicaciones pueden tener un subtítulo
 gh-repo:  justHector/almost-beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-Ésta es una publicación de prueba, así nada mas.
+page_Ésta es una publicación de prueba, así nada mas.
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
