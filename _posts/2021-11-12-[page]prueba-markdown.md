@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prueba markdown post
+title: [page]Prueba markdown post
 subtitle: Las publicaciones pueden tener un subtítulo
 gh-repo:  justHector/almost-beautiful-jekyll
 gh-badge: [star, fork, follow]
