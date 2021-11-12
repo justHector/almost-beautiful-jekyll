@@ -19,7 +19,9 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://justhector.github.io/"
-  XYZ: "https://HectorMarioSanchez.xyz" 
+  Otras Opciones: 
+    - XYZ: "https://HectorMarioSanchez.xyz" 
+    - PiiDO: "https://www.PiiDO.mx" 
 
 # --- Logo --- #
 
