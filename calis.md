@@ -9,11 +9,11 @@ En este calis se está mostrando éste contenido directamente desde un archivo m
 
 # Encabezado principal
 
-**Teto en negritas**
+**Texto en negritas**
 
 ## Encabezado secundario
 
-__Texto en itálica__
+_Texto en itálica_
 
 Here's a useless table:
 
